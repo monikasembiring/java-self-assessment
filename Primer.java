@@ -19,7 +19,7 @@ public class Primer {
             }
        }
         
-        System.out.println("100 first prime numbers");
+        System.out.println("100 first prime numbers"); //solution number 1
         int count = 0;
         int j =2;
         while (count < 100) {
@@ -30,7 +30,7 @@ public class Primer {
         	j++;
         }
         
-        Scanner myObj = new Scanner(System.in);
+        Scanner myObj = new Scanner(System.in); //solution number 3
 		
 	    System.out.println("Enter a number:");
 	    int number = myObj.nextInt();
