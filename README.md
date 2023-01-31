@@ -1,4 +1,4 @@
-# java-self-assessment
+# CMU MISM Java Self Assessment
 Initial problems for incoming MISM students at CMU
 1. Print first 100 prime numbers
 2. Take n integers from the user as input and print them in a sorted order
